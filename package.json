@@ -13,6 +13,6 @@
     "caniuse-db": "^1.0.30000932",
     "chalk": "^2.4.2",
     "node-fetch": "^2.3.0",
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^1.20.0"
   }
 }
