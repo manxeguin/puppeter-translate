@@ -1,0 +1,14 @@
+[
+  {
+    "id": "category1",
+    "resources": [
+      { "id": "msg1", "value": "Hello" },
+      { "id": "msg2", "value": "Thank you" },
+      {
+        "id": "msg3",
+        "value": "<p>Hello, translating to arabic from english</p>"
+      },
+      { "id": "msg4", "value": "Goodbye!" }
+    ]
+  }
+]
